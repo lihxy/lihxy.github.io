@@ -14,7 +14,9 @@ nav {
     margin: 0 auto;
 }
 img:hover {
-    opacity: 0.5;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 .container {
     margin: 60px auto;
