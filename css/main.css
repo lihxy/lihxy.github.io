@@ -10,9 +10,8 @@ nav {
     border-bottom: 1px solid #d5d5d5;
     font-size: 20px;
 }
-#divide2 {
-    width: 100%;
-    border-bottom: medium outset #d5d5d5;
+#image{
+    margin: 0 auto;
 }
 img:hover {
     opacity: 0.5;
